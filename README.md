@@ -54,6 +54,3 @@ After this, you need to run both apps with the following command on each specifi
 
  **For backend**
  > npm run dev
-
-
-
